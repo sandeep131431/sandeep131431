@@ -51,7 +51,7 @@
 
 ## 💡 Problem Solving
 <p align="center">
-  <img src="https://leetcode.com/u/Sandeep1314/?theme=dark&font=Karma&ext=contest&width=1000" alt="LeetCode Stats">
+  <img src="https://leetcard.jacoblin.cool/Sandeep1314?theme=dark&font=Karma&ext=contest" width="1000" alt="LeetCode Stats">
 </p>
 
 <p align="center">
