@@ -42,6 +42,7 @@
 ## 📈 Coding Activity
 
 <img src="https://github-readme-stats.vercel.app/api?username=sandeep131431&show_icons=true&theme=radical" alt="Sandeep's GitHub stats" style="width: 1000px;">
+<img src="https://github-readme-stats.vercel.app/api?username=sandeep131431&show_icons=true&theme=radical" width="1000">
 
 ## 🌱 Currently Learning
 - Advanced Smart Contract Security
@@ -50,7 +51,7 @@
 
 ## 💡 Problem Solving
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sandeep131431?theme=dark&font=Karma&ext=contest&width=1000" alt="LeetCode Stats">
+  <img src="https://leetcode.com/u/Sandeep1314/?theme=dark&font=Karma&ext=contest&width=1000" alt="LeetCode Stats">
 </p>
 
 <p align="center">
