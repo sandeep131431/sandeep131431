@@ -41,9 +41,7 @@
 
 ## 📈 Coding Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sandeep131431&theme=radicalwidth="1000")
-
-![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeep131431&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=sandeep131431&show_icons=true&theme=radical" alt="Sandeep's GitHub stats" style="width: 1000px;">
 
 ## 🌱 Currently Learning
 - Advanced Smart Contract Security
