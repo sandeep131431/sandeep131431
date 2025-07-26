@@ -1,48 +1,57 @@
-# Hello, I'm Sandeep! 👋
+# 𝙃𝙚𝙡𝙡𝙤 𝙄'𝙢 𝙎𝙖𝙣𝙙𝙚𝙚𝙥! 👨‍💻
+### Blockchain & Full-Stack Developer
 
 [![GitHub followers](https://img.shields.io/github/followers/sandeep131431?style=social)](https://github.com/sandeep131431)
+[![LeetCode](https://img.shields.io/badge/dynamic/json?label=CodeForces&query=rating&url=https://codeforces.com/api/user.info?handles=Your_Handle)](https://codeforces.com/profile/Your_Handle)
 [![Visitors](https://komarev.com/ghpvc/?username=sandeep131431&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/sandeep131431)
 
-Welcome to my GitHub profile! I'm passionate about coding and always eager to learn new technologies.
+## 🔥 My Tech Stack
 
-## 🛠️ Technologies & Tools
+### Blockchain Development
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+### MERN Stack
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-(Add more technologies you work with)
+### Competitive Programming
+![DSA](https://img.shields.io/badge/Data_Structures-FF6B00?style=for-the-badge&logo=leetcode&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-00BFFF?style=for-the-badge&logo=python&logoColor=white)
+![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
 
-## 🔭 I'm currently working on
+### Tools
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- [Project Name](link) - Short description
-- Learning [Technology/Skill]
+## 🚀 My Projects
 
-## 🌱 I'm currently learning
+### Blockchain
+- [NFT Marketplace](https://github.com/...) - Full-stack NFT trading platform
+- [Smart Contract Template](https://github.com/...) - Reusable Solidity boilerplate
 
-- [Technology/Skill]
-- [Framework/Language]
+### Web Development
+- [E-commerce MERN App](https://github.com/...) - Full-featured shopping platform
+- [Task Manager API](https://github.com/...) - Node.js backend with JWT auth
 
-## 📊 GitHub Stats
+## 📈 Coding Activity
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeep131431&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=sandeep131431&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep131431&layout=compact&theme=radical)
+![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeep131431&show_icons=true&theme=radical)
 
-## 🤝 Let's Connect
+## 🌱 Currently Learning
+- Advanced Smart Contract Security
+- Web3 Integration Patterns
+- System Design
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](your-linkedin-link)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](your-twitter-link)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+## 💡 Problem Solving
+[![Codeforces](https://codeforces-readme-stats.vercel.app/api/card?username=Your_Handle)](https://codeforces.com/profile/Your_Handle)
 
-## 🎯 Goals for 2023
-
-- [ ] Contribute to open source
-- [ ] Learn [Technology]
-- [ ] Build [Project]
-
----
-
-⭐ From [sandeep131431](https://github.com/sandeep131431)
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
