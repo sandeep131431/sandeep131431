@@ -1,6 +1,6 @@
 # 𝙃𝙚𝙡𝙡𝙤 𝙄'𝙢 𝙎𝙖𝙣𝙙𝙚𝙚𝙥! 👨‍💻
 ### Blockchain & Full-Stack Developer
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="1000" alt="Software Engineer GIF">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Software Engineer GIF">
 
 [![GitHub followers](https://img.shields.io/github/followers/sandeep131431?style=social)](https://github.com/sandeep131431)
 [![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=LeetCode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsandeep131431&logo=leetcode&logoColor=yellow)](https://leetcode.com/sandeep131431)
@@ -51,9 +51,13 @@
 - System Design
 
 ## 💡 Problem Solving
-[![LeetCode Stats](https://leetcard.jacoblin.cool/sandeep131431?theme=dark&font=Karma&ext=contest)](https://leetcode.com/sandeep131431)
+<div style="width: 1000px">
+  [![LeetCode Stats](https://leetcard.jacoblin.cool/sandeep131431?theme=dark&font=Karma&ext=contest&width=1000)](https://leetcode.com/sandeep131431)
+</div>
 
-[![Codeforces](https://codeforces-readme-stats.vercel.app/api/card?username=sandeep131431)](https://codeforces.com/profile/sandeep131431)
+<div style="width: 1000px">
+  [![Codeforces](https://codeforces-readme-stats.vercel.app/api/card?username=sandeep131431&width=1000)](https://codeforces.com/profile/sandeep131431)
+</div>
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
