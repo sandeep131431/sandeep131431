@@ -4,7 +4,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/sandeep131431?style=social)](https://github.com/sandeep131431)
 [![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=LeetCode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsandeep131431&logo=leetcode&logoColor=yellow)](https://leetcode.com/sandeep131431)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Your_Handle)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sandeep131431)
 [![Visitors](https://komarev.com/ghpvc/?username=sandeep131431&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/sandeep131431)
 
 ## 🔥 My Tech Stack
@@ -51,13 +51,13 @@
 - System Design
 
 ## 💡 Problem Solving
-<div style="width: 1000px">
-  [![LeetCode Stats](https://leetcard.jacoblin.cool/sandeep131431?theme=dark&font=Karma&ext=contest&width=1000)](https://leetcode.com/sandeep131431)
-</div>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sandeep131431?theme=dark&font=Karma&ext=contest&width=1000" alt="LeetCode Stats">
+</p>
 
-<div style="width: 1000px">
-  [![Codeforces](https://codeforces-readme-stats.vercel.app/api/card?username=sandeep131431&width=1000)](https://codeforces.com/profile/sandeep131431)
-</div>
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sandeep131431&width=1000" alt="Codeforces Stats">
+</p>
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
