@@ -42,7 +42,7 @@
 ## 📈 Coding Activity
 
 <img src="https://github-readme-stats.vercel.app/api?username=sandeep131431&show_icons=true&theme=radical" alt="Sandeep's GitHub stats" style="width: 1000px;">
-<img src="https://github-readme-stats.vercel.app/api?username=sandeep131431&show_icons=true&theme=radical" width="1000">
+
 
 ## 🌱 Currently Learning
 - Advanced Smart Contract Security
@@ -55,7 +55,7 @@
 </p>
 
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sandeep131431&width=1000" alt="Codeforces Stats">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sandeep131431&theme=dark" width="1000" alt="Codeforces Stats">
 </p>
 
 ## 📫 Let's Connect
