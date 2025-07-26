@@ -1,6 +1,6 @@
 # 𝙃𝙚𝙡𝙡𝙤 𝙄'𝙢 𝙎𝙖𝙣𝙙𝙚𝙚𝙥! 👨‍💻
 ### Blockchain & Full-Stack Developer
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Software Engineer GIF">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="1000" alt="Software Engineer GIF">
 
 [![GitHub followers](https://img.shields.io/github/followers/sandeep131431?style=social)](https://github.com/sandeep131431)
 [![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=LeetCode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsandeep131431&logo=leetcode&logoColor=yellow)](https://leetcode.com/sandeep131431)
@@ -32,16 +32,16 @@
 ## 🚀 My Projects
 
 ### Blockchain
-- [NFT Marketplace](https://github.com/...) - Full-stack NFT trading platform
-- [Smart Contract Template](https://github.com/...) - Reusable Solidity boilerplate
+- [NFT Marketplace](crypto-wallet-green.vercel.app) - Full-stack NFT trading platform
+- [Smart Contract Template](https://sandeep131431.github.io/BlockchainEthTransfer/) - Reusable Solidity boilerplate
 
 ### Web Development
-- [E-commerce MERN App](https://github.com/...) - Full-featured shopping platform
-- [Task Manager API](https://github.com/...) - Node.js backend with JWT auth
+- [E-commerce MERN App](code-ace-frontend.vercel.app) - Full-featured shopping platform
+- [Task Manager API]() - Node.js backend with JWT auth
 
 ## 📈 Coding Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sandeep131431&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=sandeep131431&theme=radicalwidth="1000")
 
 ![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeep131431&show_icons=true&theme=radical)
 
